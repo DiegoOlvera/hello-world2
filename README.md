@@ -13,3 +13,7 @@ tengo una idea muy vaga de como utilizarlo,
 pero se que esta herramienta es muy necesaria
 en mi formación academica, por tanto, debo aprender 
 a utilizarla.
+
+##Local Development
+
+1. Open index.html in your browser
